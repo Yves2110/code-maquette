@@ -1,0 +1,199 @@
+                * {
+                    box-sizing: border-box;
+                    padding: 0;
+                    margin: 0;
+                }
+                
+                .header {
+                    top: 0;
+                    background-color: #128c7e;
+                    color: #ffff;
+                    display: flex;
+                    padding: 16px;
+                    align-items: center;
+                    justify-content: center;
+                    position: fixed;
+                    margin-bottom: 60px;
+                    width: 100%;
+                }
+                
+                .header ul li {
+                    position: relative;
+                    float: left;
+                    margin: 20px;
+                    display: block;
+                }
+                
+                .header h1 {
+                    margin-right: 50px;
+                    font-size: 25px;
+                }
+                
+                .bloc1 {
+                    display: flex;
+                    margin-top: 155px;
+                    justify-content: center;
+                    margin-bottom: 50px;
+                }
+                
+                .text-bloc {
+                    margin-right: 7%;
+                    margin-top: 35px;
+                }
+                
+                .text-bloc h1 {
+                    font-size: xx-large;
+                    font-weight: bold;
+                    margin-bottom: 50px;
+                }
+                
+                .text {
+                    font-weight: bold;
+                    margin-bottom: 30px;
+                    font-size: 20px;
+                }
+                
+                .text2 {
+                    margin-bottom: 50px;
+                    font-size: 20px;
+                }
+                
+                .puce {
+                    margin-bottom: 50px;
+                    font-size: 20px;
+                    color: #128c7e;
+                }
+                
+                .puce div {
+                    margin-bottom: 15px;
+                }
+                
+                .puce img {
+                    margin-right: 15px;
+                }
+                
+                .bloc2 {
+                    display: flex;
+                    width: 100%;
+                    justify-content: space-between;
+                }
+                
+                .lot1 {
+                    background-color: #D8E8EA;
+                    width: 49%;
+                    justify-content: center;
+                    text-align: center;
+                }
+                
+                .lot1 h2 {
+                    margin-top: 12.5%;
+                    text-align: center;
+                    font-size: 35px;
+                    margin-bottom: 20px;
+                }
+                
+                .lot1-1 {
+                    padding: 25px;
+                    justify-content: center;
+                    font-size: 23px;
+                }
+                
+                .lot1 img {
+                    margin-left: 0px;
+                    margin-top: 50px;
+                }
+                
+                .lot2 {
+                    background-color: #E7F0E4;
+                    justify-content: center;
+                    width: 49%;
+                    text-align: center;
+                }
+                
+                .hello {
+                    display: flex;
+                    height: 400px;
+                    width: 400px;
+                    border: px solid;
+                    border-radius: 50%;
+                    background-color: #77d7c8;
+                    align-items: center;
+                    justify-content: center;
+                    margin-left: 25%;
+                    margin-top: 12.5%;
+                }
+                
+                .lot2 h3 {
+                    text-align: center;
+                    margin-top: 50px;
+                }
+                
+                .lot2 h2 {
+                    text-align: center;
+                    margin-top: 15px;
+                    margin-bottom: 10px;
+                    font-size: 40px;
+                }
+                
+                .bloc3 {
+                    display: flex;
+                    height: 200px;
+                    font-size: px;
+                    color: #128c7e;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+                .bloc3 div {
+                    border: 2px solid #128c7e;
+                    width: 330px;
+                    height: 55px;
+                    border-radius: 25px;
+                    text-align: center;
+                }
+                
+                .bloc3 div p {
+                    display: flex;
+                    margin-top: 15px;
+                    justify-content: center;
+                    align-items: center;
+                }
+                
+                .bloc4 {
+                    display: flex;
+                    margin-top: 15px;
+                    justify-content: space-evenly;
+                    background: #273443;
+                    color: #F0F4F9;
+                    height: 410px;
+                    font-size: 23px;
+                    line-height: 35px;
+                }
+                
+                .bloc4 div {
+                    margin-top: 6.5%;
+                }
+                
+                .bloc4 h3 {
+                    margin-bottom: 19px;
+                }
+                
+                .fin {
+                    display: flex;
+                    background-color: #1c1e21;
+                    color: #F0F4F9;
+                    height: 75px;
+                    justify-content: space-around;
+                    align-items: center;
+                    font-weight: bold;
+                    font-size: 18px;
+                }
+                
+                span {
+                    color: #39b3ed;
+                }
+                
+                button {
+                    border: none;
+                    text-decoration: none;
+                }
